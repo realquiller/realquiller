@@ -1,5 +1,1 @@
-- 👋 Hi, I’m Quiller
-- 👀 I’m interested in IT: Programming and Multimedia, especially video-editing (my hobby)
-- 🌱 I’m currently actively learning PHP
-- 💞️ I would love to collaborate on projects that use PHP so I can learn more
-- 📫 Reach me on Discord - Quiller#2028
+Boot.dev is peak
